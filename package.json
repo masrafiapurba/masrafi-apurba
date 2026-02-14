@@ -2,7 +2,7 @@
   "name": "COMP 2156 SPA deployment",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://masrafiapurba.github.io/student_website",
+  "homepage": "https://masrafiapurba.github.io/masrafi-apurba",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
