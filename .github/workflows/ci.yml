@@ -2,9 +2,9 @@ name: CI
 
 on:
   push:
-    branches: [ dep-inclusions ]
+    branches: [ main ]
   pull_request:
-    branches: [ dep-inclusions ]
+    branches: [ main ]
 
 permissions:
   contents: read
@@ -40,7 +40,7 @@ jobs:
 
   deploy:
     needs: build
-    if: github.ref == 'refs/heads/dep-inclusions'
+    if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
