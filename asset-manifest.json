@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/masrafi-apurba/static/css/main.27ca76a1.css",
+    "main.js": "/masrafi-apurba/static/js/main.88aea492.js",
+    "static/js/453.e8366026.chunk.js": "/masrafi-apurba/static/js/453.e8366026.chunk.js",
+    "index.html": "/masrafi-apurba/index.html",
+    "main.27ca76a1.css.map": "/masrafi-apurba/static/css/main.27ca76a1.css.map",
+    "main.88aea492.js.map": "/masrafi-apurba/static/js/main.88aea492.js.map",
+    "453.e8366026.chunk.js.map": "/masrafi-apurba/static/js/453.e8366026.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27ca76a1.css",
+    "static/js/main.88aea492.js"
+  ]
+}
